@@ -14,8 +14,6 @@
 
 <img src="./profile/scan-graph.svg" alt="Contribution scan animation" />
 
-<sub>A custom scan-reveal animation — colors and behavior are fully ours (see <code>scripts/generate-scan-graph.mjs</code>), generated daily via GitHub Actions instead of a third-party themed service.</sub>
-
 </div>
 
 ---
