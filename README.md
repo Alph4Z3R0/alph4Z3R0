@@ -40,7 +40,7 @@ I'm **Resego Mokgopa**, a cybersecurity professional working across penetration 
 ### 🚩 CTF Profile
 
 <p align="center">
-  <a href="https://app.hackthebox.com/profile/YOUR-HTB-ID">
+  <a href="https://profile.hackthebox.com/profile/019c66f0-2d50-727a-b687-d85b973b7575">
     <img src="https://profile.hackthebox.com/profile/019c66f0-2d50-727a-b687-d85b973b7575" alt="Hack The Box Profile" />
   </a>
 </p>
