@@ -2,7 +2,7 @@
 
 # Hello there,👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=0969DA&center=true&vCenter=true&width=560&lines=I'm+Resego+Mokgopa;PenTester+%C2%B7+CTF+Player+%C2%B7+Security+Operations+Centre;root%40cyb3rm0n4rch" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=0969DA&center=true&vCenter=true&width=560&lines=I'm+Resego+Mokgopa;Penetration+Tester+%C2%B7+CTF+Player+%C2%B7+Security+Operations;root%40cyb3rm0n4rch" alt="Typing SVG" />
 
 </div>
 
@@ -10,14 +10,11 @@
 
 <div align="center">
 
-### 🕹️ Live Contribution Graph
+### 🛰️ Live Contribution Scan
 
-<!-- galaga -->
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cyb3rM0n4rch/Cyb3rM0n4rch/output/galaga-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cyb3rM0n4rch/Cyb3rM0n4rch/output/galaga-contribution-graph.svg">
-    <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/Cyb3rM0n4rch/Cyb3rM0n4rch/output/galaga-contribution-graph.svg">
-</picture>
+<img src="./profile/scan-graph.svg" alt="Contribution scan animation" />
+
+<sub>A custom scan-reveal animation — colors and behavior are fully ours (see <code>scripts/generate-scan-graph.mjs</code>), generated daily via GitHub Actions instead of a third-party themed service.</sub>
 
 </div>
 
@@ -95,7 +92,6 @@ I do some web development as well :)
 
 <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub streak" /></a>
 
-
 </div>
 
 ---
@@ -115,7 +111,6 @@ I do some web development as well :)
 | Project | Description | Stack | Status |
 |---|---|---|---|
 | [Portfolio](https://github.com/Cyb3rM0n4rch/YOUR-REPO) | Personal security/dev portfolio site | Next.js · TypeScript · Three.js | 🔵 Active |
-
 
 </div>
 
