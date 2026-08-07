@@ -1,0 +1,37 @@
+name: generate scan contribution graph
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # regenerate daily at midnight UTC
+  workflow_dispatch:        # lets you trigger it manually from the Actions tab
+  push:
+    branches:
+      - main
+    paths:
+      - 'scripts/generate-scan-graph.mjs'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate scan graph
+        env:
+          GITHUB_LOGIN: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/generate-scan-graph.mjs
+
+      - name: Commit graph
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add profile/scan-graph.svg
+          git commit -m "Update scan contribution graph" || exit 0
+          git push
