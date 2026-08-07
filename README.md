@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello there, &lt;developers/&gt; 👋
+# Hello there,👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=560&lines=I'm+Resego+Mokgopa;Penetration+Tester+%C2%B7+CTF+Player+%C2%B7+SOC+Analyst;root%40cyb3rm0n4rch" alt="Typing SVG" />
 
@@ -74,7 +74,7 @@ Currently studying for **BSCP** (Burp Suite Certified Practitioner) and **CPTS**
 ### 🚩 CTF Profile
 
 <a href="https://app.hackthebox.com/profile/YOUR-HTB-ID">
-  <img src="https://www.hackthebox.com/badge/image/YOUR-HTB-ID" alt="Hack The Box Profile" />
+  <img src="https://app.hackthebox.com/public/users/2809489" alt="Hack The Box Profile" />
 </a>
 
 <sub>Replace `YOUR-HTB-ID` above with your numeric HTB profile ID (found in your HTB profile URL).</sub>
