@@ -20,6 +20,17 @@
 
 <div align="center">
 
+### Hack The Box
+
+<a href="https://app.hackthebox.com/public/users/2809489">
+  <img src="https://www.hackthebox.com/badge/image/2809489" alt="Hack The Box Profile" />
+</a>
+
+</div>
+---
+
+<div align="center">
+
 ### 👋 About me
 
 I'm **Resego Mokgopa**, a cybersecurity professional working across penetration testing, web application security, and SOC operations.
@@ -64,18 +75,6 @@ I'm **Resego Mokgopa**, a cybersecurity professional working across penetration 
 <img src="https://img.shields.io/badge/SQLmap-D22128?style=for-the-badge&logo=sqlite&logoColor=white" />
 <img src="https://img.shields.io/badge/Hydra-262626?style=for-the-badge&logo=thc-hydra&logoColor=white" />
 <img src="https://img.shields.io/badge/John_the_Ripper-4B0082?style=for-the-badge&logoColor=white" />
-
-</div>
-
----
-
-<div align="center">
-
-### Hack The Box
-
-<a href="https://app.hackthebox.com/public/users/2809489">
-  <img src="https://www.hackthebox.com/badge/image/2809489" alt="Hack The Box Profile" />
-</a>
 
 </div>
 
