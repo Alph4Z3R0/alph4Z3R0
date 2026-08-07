@@ -31,6 +31,8 @@
 
 <div align="center">
 
+---
+  
 ### 👋 About me
 
 I'm **Resego Mokgopa**, a cybersecurity professional working across penetration testing, web application security, and SOC operations.
