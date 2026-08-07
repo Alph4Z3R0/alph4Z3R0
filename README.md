@@ -116,7 +116,6 @@ I do some web development as well :)
 |---|---|---|---|
 | [Portfolio](https://github.com/Cyb3rM0n4rch/YOUR-REPO) | Personal security/dev portfolio site | Next.js · TypeScript · Three.js | 🔵 Active |
 
-<sub>Swap each `YOUR-REPO` for your real repo slug.</sub>
 
 </div>
 
