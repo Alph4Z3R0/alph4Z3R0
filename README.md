@@ -30,8 +30,7 @@
 ### 👋 About me
 
 I'm **Resego Mokgopa**, a cybersecurity professional working across penetration testing, web application security, and SOC operations.
-Active CTF competitor — 🥇 **1st place, Cyberlympics 2026** with Team Exception.
-Currently studying for **BSCP** (Burp Suite Certified Practitioner) and **CPTS** (HTB Certified Penetration Tester).
+Active CTF competitor
 
 </div>
 
