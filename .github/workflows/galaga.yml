@@ -16,11 +16,36 @@ jobs:
     timeout-minutes: 20
 
     steps:
-      - name: generate contribution graph SVG
-        uses: abozanona/pacman-contribution-graph@main
+      - name: Set up Node
+        uses: actions/setup-node@v4
         with:
-          github_user_name: ${{ github.repository_owner }}
-          games: 'galaga'
+          node-version: 20
+
+      - name: Install pacman-contribution-graph CLI
+        run: npm install -g pacman-contribution-graph
+
+      - name: Make output folder
+        run: mkdir -p dist
+
+      # 'github' theme = light, muted green scale (low contrast)
+      - name: Generate galaga graph (light)
+        run: |
+          pacman-contribution-graph \
+            --game galaga \
+            --platform github \
+            --username ${{ github.repository_owner }} \
+            --gameTheme github \
+            --output dist/galaga-contribution-graph.svg
+
+      # 'github-dark' theme = dark background, same muted green squares
+      - name: Generate galaga graph (dark)
+        run: |
+          pacman-contribution-graph \
+            --game galaga \
+            --platform github \
+            --username ${{ github.repository_owner }} \
+            --gameTheme github-dark \
+            --output dist/galaga-contribution-graph-dark.svg
 
       - name: push SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
