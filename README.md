@@ -45,7 +45,6 @@ I'm **Resego Mokgopa**, a cybersecurity professional working across penetration 
   </a>
 </p>
 
-> Replace `YOUR-HTB-ID` in both spots with your numeric HTB profile ID (find it in your HTB profile URL).
 
 ---
 
