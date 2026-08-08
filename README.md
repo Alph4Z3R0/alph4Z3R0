@@ -104,7 +104,7 @@ I do some web development as well :)
 | Project | Description | Stack | Status |
 |---|---|---|---|
 | [PNPT-Report-Generator](https://github.com/Cyb3rM0n4rch/YOUR-REPO) | Programmatic PNPT-style pentest report generation | Python · python-docx | 🔵 Active |
-| [Python Password Strength Checker](https://github.com/Cyb3rM0n4rch/YOUR-REPO) | Checks the strength of your passwords | Python · python-docx | 🔵 Active |
+| [Python Password Strength Checker](https://github.com/cyb3rm0n4rch/python-password-strength-checker) | Checks the strength of your passwords | Python · python-docx | 🔵 Active |
 
 **Web & Full-Stack**
 
