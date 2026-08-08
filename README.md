@@ -2,7 +2,7 @@
 
 # Hello there,👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=0969DA&center=true&vCenter=true&width=560&lines=I'm+Resego+Mokgopa;Pentester+%C2%B7+CTF+Player+%C2%B7+Security+Operations+Centre;root%40cyb3rm0n4rch" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=0969DA&center=true&vCenter=true&width=560&lines=I'm+Resego+Mokgopa;Pentester+%C2%B7+CTF+Player+%C2%B7+SOC;root%40cyb3rm0n4rch" alt="Typing SVG" />
 
 </div>
 
