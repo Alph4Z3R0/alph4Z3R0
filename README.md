@@ -99,11 +99,12 @@ I do some web development as well :)
 
 ### 💼 Featured Projects
 
-**Security & CTF**
+**Cybersecurity & CTFs**
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
 | [PNPT-Report-Generator](https://github.com/Cyb3rM0n4rch/YOUR-REPO) | Programmatic PNPT-style pentest report generation | Python · python-docx | 🔵 Active |
+| [Python Password Strength Checker](https://github.com/Cyb3rM0n4rch/YOUR-REPO) | Checks the strength of your passwords | Python · python-docx | 🔵 Active |
 
 **Web & Full-Stack**
 
