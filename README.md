@@ -33,7 +33,7 @@
 
 ---
   
-### 👋 About me
+### About me
 
 I'm a cybersecurity professional focused on penetration testing, web application security, and security operations.
 I enjoy breaking, analyzing, and securing systems through hands-on labs, CTFs, and security projects.
