@@ -35,9 +35,10 @@
   
 ### 👋 About me
 
-I'm **Resego Mokgopa**, a cybersecurity professional working across penetration testing, web application security, and SOC operations.
-Active CTF competitor <br>
-I do some web development as well :)
+I'm a cybersecurity professional focused on penetration testing, web application security, and security operations.
+I enjoy breaking, analyzing, and securing systems through hands-on labs, CTFs, and security projects.
+My interests include web application security, network security, vulnerability assessment, incident detection, and offensive security.
+Outside security, I also build web applications and security-focused tools.
 
 </div>
 
