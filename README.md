@@ -84,7 +84,6 @@ Outside security, I also build web applications and security-focused tools.
 
 ### 📊 GitHub Stats
 
-<img height="165" src="./profile/stats.svg" alt="GitHub stats" />
 <img height="165" src="./profile/top-langs.svg" alt="Top languages" />
 
 <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub streak" /></a>
