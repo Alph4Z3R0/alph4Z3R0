@@ -31,9 +31,10 @@
   
 ### About me
 
-I'm a cybersecurity professional focused on penetration testing, web application security, and security operations.
+Cybersecurity professional focused on penetration testing, web application security, and security operations.
 I enjoy breaking, analyzing, and securing systems through hands-on labs, CTFs, and security projects.
-My interests include web application security, network security, vulnerability assessment, incident detection, and offensive security.
+Interests: Web application security | network security | vulnerability assessment | incident detection | offensive security.
+
 Outside security, I also build web applications and security-focused tools.
 
 </div>
