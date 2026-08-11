@@ -109,7 +109,7 @@ Outside security, I also build web applications and security-focused tools.
 | Project | Description | Stack | Status |
 |---|---|---|---|
 | [Portfolio](https://alph4z3r0.github.io/) | Personal security/dev portfolio site | Next.js · TypeScript · Three.js | 🔵 Active |
-| [Portfolio](https://github.com/Alph4Z3R0/100-projects-to-master-front-end-big-3) |Practice projects to mastwer HTML, CSS and JS | HTML, CSS, JS | 🔵 Active |
+| [Front-End Projects](https://github.com/Alph4Z3R0/100-projects-to-master-front-end-big-3) |Practice projects to mastwer HTML, CSS and JS | HTML, CSS, JS | 🔵 Active |
 
 
 
