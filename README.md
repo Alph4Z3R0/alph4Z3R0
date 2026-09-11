@@ -24,7 +24,7 @@
 - Cybersecurity professional focused on penetration testing, web application security, and security operations.
 - I enjoy breaking, analyzing, and securing systems through hands-on labs, CTFs, and security projects.
 <br>
-Interests: Web application security | network security | vulnerability assessment | incident detection | offensive security.
+<em>Interests:</em> Web application security | network security | vulnerability assessment | incident detection | offensive security.
 <br>
 Outside security, I also build web applications and security-focused tools.
 
