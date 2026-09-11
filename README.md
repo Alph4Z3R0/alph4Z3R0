@@ -8,14 +8,6 @@
 
 <div align="center">
 
-### 🛰️ Live Contribution Scan
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alph4Z3RO/alph4Z3RO/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alph4Z3RO/alph4Z3RO/output/github-contribution-grid-snake.svg" />
-  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/Alph4Z3RO/alph4Z3RO/output/github-contribution-grid-snake.svg" />
-</picture>
-
 ### Hack The Box
 
 <a href="https://app.hackthebox.com/public/users/2809489">
